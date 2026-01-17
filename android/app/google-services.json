@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226903346204",
+    "project_id": "bleattendance-ce0b9",
+    "storage_bucket": "bleattendance-ce0b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226903346204:android:5bc127223b927ae1aba3d9",
+        "android_client_info": {
+          "package_name": "com.example.ble_scanner_logger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCb3TMCk5jqP7Q6RgT9HdWQYxClT9sbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
