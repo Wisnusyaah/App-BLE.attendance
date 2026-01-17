@@ -56,7 +56,3 @@ Pada pengujian di ruangan ±6×6 m, sistem menghasilkan **akurasi ~96,67%** (29 
 ## Catatan
 Nilai RSSI dan threshold sangat dipengaruhi oleh layout ruangan, posisi beacon, dan tipe smartphone. Disarankan melakukan kalibrasi ulang sebelum penggunaan di banyak kelas/lingkungan berbeda.
 
----
-
-**Laporan TA / Dokumentasi:** (isi link/QR di sini)  
-**Demo (opsional):** (isi link di sini)
